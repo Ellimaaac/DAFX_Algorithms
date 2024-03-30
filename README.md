@@ -1,5 +1,5 @@
 # DAFX_Algorithms
-all algorithms of DAFX book
+all algorithms of DAFX book 2nd edition
 
 ## Chapter 1 : Introduction
 
