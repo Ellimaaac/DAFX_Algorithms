@@ -3,6 +3,8 @@ all algorithms of DAFX book 2nd edition
 
 Almost all the scripts written in this book are no longer operational in the new versions of matlab. Here are all the updated scripts.
 
+Update every week/2weeks
+
 Music use : [punk.wav](punk.wav)
 ## Chapter 1 : Introduction
 Pictures of every results : [link](Chapter1-Introduction/img)
