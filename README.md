@@ -5,7 +5,7 @@ Almost all the scripts written in this book are no longer operational in the new
 
 Update every week/2weeks
 
-Music use : [punk.wav](punk.wav)
+Music use : [punk.wav](punk.wav) | [ton2.wav](ton2.wav)
 ## Chapter 1 : Introduction
 Pictures of every results : [link](Chapter1-Introduction/img)
 
