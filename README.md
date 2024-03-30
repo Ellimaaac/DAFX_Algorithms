@@ -15,3 +15,4 @@ Pictures of every results : [link](Chapter1-Introduction/img)
 - [M-17](Chapter1-Introduction/M_file_17.m)
 - [M-18](Chapter1-Introduction/M_file_18_FIR_simple.m)
 - [M-19](Chapter1-Introduction/M_file_19_FIR_system.m)
+## Chapter 2 : Filters and delays
