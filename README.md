@@ -7,5 +7,6 @@ all algorithms of DAFX book 2nd edition
 <p align="center"><img src="Chapter1-Introduction/img/M13.png" width="700"/></p>
 
 <p align="center"><img src="Chapter1-Introduction/img/M15.png" width="700"/></p>
+<p align="center"><img src="Chapter1-Introduction/img/M16.png" width="700"/></p>
 <p align="center"><img src="Chapter1-Introduction/img/M18.png" width="700" />
 </p><p align="center"><img src="Chapter1-Introduction/img/M19.png" width="700" /></p>
