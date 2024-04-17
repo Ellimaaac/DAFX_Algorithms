@@ -20,3 +20,15 @@ Matlab | Python
 - [M-18](Chapter1-Introduction/M_file_18_FIR_simple.m)
 - [M-19](Chapter1-Introduction/M_file_19_FIR_system.m)
 ## Chapter 2 : Filters and delays
+## Chapter 3 : Modulators and Demodulators
+## Chapter 4 : Nonlinear proccessing
+## Chapter 5 : Spacial effects
+## Chapter 6 : Time-segment processing
+## Chapter 7 : Time-frequency processing 
+## Chapter 8 : Source-filter processing
+## Chapter 9 : Adaptative digital audio effects
+## Chapter 10 : Spectral processing
+## Chapter 11 : Time and frequency-wraping musical signals
+## Chapter 12 : Virtual analog effects
+## Chapter 13 : Automatic mixing 
+## Chapter 14 : Sound source separation
